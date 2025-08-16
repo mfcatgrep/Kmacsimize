@@ -34,11 +34,28 @@ But the features are:
   dissapear when a window is maximized):
 
 
+https://github.com/user-attachments/assets/edd11396-a957-4087-944c-757a890bf2a0
+
+
+
+https://github.com/user-attachments/assets/9f70c888-7fe2-4729-b142-830d00a4d134
+
+
+
 
 * Everytime a window that was maximized is closed in that state, the virtual desktop related with the window will be erased (in most of cases , probably there is a case that this is not possible (maybe using kill -9 or something like that))
 
 
+https://github.com/user-attachments/assets/fc9e42c9-c2ed-4dee-9d79-f4f148ba5e7a
+
+
+
 * If the window is maximized in a virtual desktop , it is possible unmaximize using escape key! (but escape button will not work in a default way in other places. I tried to solve this problem but I was not able to do it yet)
+
+
+
+https://github.com/user-attachments/assets/959cf812-555b-4859-af79-10d7b32c03bd
+
 
 
 
@@ -47,8 +64,16 @@ But the features are:
 
 
 
+https://github.com/user-attachments/assets/9d3b3177-3778-4ea6-92a2-bfbb59371be9
+
+
+
 
 * If a window is minimized from a virtual desktop , the window will be maximized in a new virtual desktop.
+
+
+
+https://github.com/user-attachments/assets/6d962ead-71da-4ba4-a0c7-4a7e3c03e736
 
 
 
