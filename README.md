@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/6d962ead-71da-4ba4-a0c7-4a7e3c03e736
 
 # Installation
 
-* Download the tarball and then in a terminal run `plasmapkg2 --install kmacsimize_beta.tar.gz`
+* Download the tarball from Releases section and then in a terminal run `plasmapkg2 --install Kmacsimize-v0.1.tar.gz`
 
 * Then in KDE configuration head over to  "Kwin script" section, and then activate the KMacsimize script
 
