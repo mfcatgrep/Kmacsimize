@@ -1,6 +1,6 @@
 windowsExceptions=["krunner","spectacle"]
 windowsState={}
-debug=true
+debug=false
 
 const Action =
 {
