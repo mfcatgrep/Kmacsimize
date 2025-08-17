@@ -98,4 +98,8 @@ without moving the window to a new virtual desktop
   And this list is placed in `~/.local/share/kwin/scripts/KMacsimize/contents/code/main.js`
   If you want to add more exceptions that is the place
 
+# Debugging
+
+A lot of debugging messages were added in the code. By default are disabled to enable in `~/.local/share/kwin/scripts/KMacsimize/contents/code/main.js` the variable 
+debug should change from false to true and relaunch the kwin script. To see the debug messages in a terminal the command `journalctl --follow`
 
