@@ -101,5 +101,5 @@ without moving the window to a new virtual desktop
 # Debugging
 
 A lot of debugging messages were added in the code. By default are disabled to enable in `~/.local/share/kwin/scripts/KMacsimize/contents/code/main.js` the variable 
-debug should change from false to true and relaunch the kwin script. To see the debug messages in a terminal the command `journalctl --follow`
+debug should change from false to true and relaunch the kwin script. To see the debug messages in a terminal the command `journalctl --follow` . The messages will be identify with a `KMacsimize` string
 
